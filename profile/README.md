@@ -4,7 +4,7 @@ A aDev Guild surgiu com o propósito de trazer novas perspectivas sobre o uso da
 
 ## aDev Class
 
-Atualmente, nosso principal projeto é a [aDev Class](https://github.com/aDevGuild/adev-class). Esse projeto busca reunir uma comunidade que busque aprender e compartilhar conhecimentos relacionados a tecnologia de forma acessível.
+Atualmente, nosso principal projeto é a [aDev Class](https://github.com/aDevGuild/adev-class). O objetivo desse projeto é reunir uma comunidade que busque aprender e compartilhar conhecimentos relacionados a tecnologia de forma acessível.
 
 aDev Class: [🐱Repositório do GitHub](https://github.com/aDevGuild/adev-class) | [📚Site do Projeto com as Aulas Escritas](https://adev-class.vercel.app/)
 
